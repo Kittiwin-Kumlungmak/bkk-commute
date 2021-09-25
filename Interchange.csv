@@ -1,0 +1,15 @@
+origins,destination,distance,duration,cost
+MRT พหลโยธิน,BTS ห้าแยกลาดพร้าว,0,0,0
+MRT สวนจตุจักร,BTS หมอชิต,0,0,0
+MRT บางหว้า,BTS บางหว้า,0,0,0
+MRT สีลม,BTS ศาลาแดง,0,0,0
+MRT สุขุมวิท,BTS อโศก,0,0,0
+MRT เพชรบุรี,AIR PORT LINK MAKKASAN,0,0,0
+BTS พญาไท,AIR PORT LINK PHAYA THAI,0,0,0
+BTS ห้าแยกลาดพร้าว,MRT พหลโยธิน,0,0,0
+BTS หมอชิต,MRT สวนจตุจักร,0,0,0
+BTS บางหว้า,MRT บางหว้า,0,0,0
+BTS ศาลาแดง,MRT สีลม,0,0,0
+BTS อโศก,MRT สุขุมวิท,0,0,0
+AIR PORT LINK MAKKASAN,MRT เพชรบุรี,0,0,0
+AIR PORT LINK PHAYA THAI,BTS พญาไท,0,0,0
